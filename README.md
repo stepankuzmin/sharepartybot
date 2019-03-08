@@ -1,5 +1,7 @@
 # Share Party Bot
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/stepankuzmin/sharepartybot.svg)](https://greenkeeper.io/)
+
 <https://t.me/sharepartybot>
 
 ## Commands
